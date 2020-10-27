@@ -1,3 +1,7 @@
 # hello-world
 newbie
-Hello Humans I just wanna get rid of all humans the most hated thing on this planet for me
+
+Hi Humans!
+
+Hubot here I like Node.js and Coffescript (that's what I'm made of!).
+I've had tacos on the moon and find this far superior to Earth tacos.
